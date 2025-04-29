@@ -106,3 +106,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for full 
 ---
 
 Happy coding! Have questions? [Open an issue](https://github.com/visaoenhance/react-notes-app-supabase/issues).
+=======
+# react-notes-app-supabase
+>>>>>>> 30c97ae2445bfa7ae3f3fc535c861afd827e0549
