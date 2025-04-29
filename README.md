@@ -1,4 +1,8 @@
 # React Notes App with Supabase
+![GitHub Repo stars](https://img.shields.io/github/stars/visaoenhance/react-notes-app-supabase?style=social)
+![GitHub license](https://img.shields.io/github/license/visaoenhance/react-notes-app-supabase)
+![GitHub last commit](https://img.shields.io/github/last-commit/visaoenhance/react-notes-app-supabase)
+
 
 A minimal, beginner-friendly notes application built with React (using Vite) and Supabase. This project demonstrates fundamental concepts including user authentication, CRUD operations against a Supabase database, and basic React routing. It also highlights the use of demo mode for simplified testing and public portfolio use.
 
@@ -95,9 +99,14 @@ react-notes-app-supabase/
 
 ## 🖼️ Preview Screens
 
-<img src="public/preview-login.png" width="600"/>
-<img src="public/preview-dashboard.png" width="600"/>
-<img src="public/preview-editor.png" width="600"/>
+### 🔐 Login Page
+![Login](public/preview-login.png)
+
+### 🧾 Dashboard (List View)
+![Dashboard](public/preview-dashboard.png)
+
+### ✍️ Note Editor
+![Note Editor](public/preview-editor.png)
 
 ## 📄 License
 
